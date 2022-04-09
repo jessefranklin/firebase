@@ -22,7 +22,7 @@
     "flow": "^0.2.3",
     "graphql": "^0.10.5",
     "graphql-tools": "^1.2.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "react-apollo": "^2.5.5",
     "redux-form": "^8.2.0",
     "webpack": "^4.30.0"
